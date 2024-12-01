@@ -13,7 +13,7 @@ The aim of this project is to extract all those triples from the wikipedia artic
 ### Code structure
 All directories contain a `notebooks` directory which has notebooks with exploration/experimentation code for the models and methods used. 
 ```
-📦GSoC24
+📦my-nef
  ┣ 📂Data
  ┣ 📂EntityLinking
  ┣ 📂NER
