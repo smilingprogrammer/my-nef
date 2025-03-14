@@ -7,6 +7,8 @@ This will be the continuation of my open source project @DBpedia. [here](https:/
 
 # Example of a text and its generated semantic triples:
 
+Text: Donald Trump received a Bachelor of Science degree in economics from the University of Pennsylvania in 1968
+
 | subject | predicate | object | subject_uri | predicate_uri | object_uri |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Donald Trump  | alumnus  | University of Pennsylvania  | https://dbpedia.org/resource/Donald_Trump | http://dbpedia.org/ontology/alumni | https://dbpedia.org/resource/University_of_Pennsylvania |
