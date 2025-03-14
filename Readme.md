@@ -1,7 +1,5 @@
 # Neural Extraction Framework @DBpedia
 
-|   Project Details     |                                                                                                                                                                                               |
-|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 This will be the continuation of my open source project @DBpedia. [here](https://smilingprogrammer.github.io/GSoC-2024-blog/)
 
 ### What is Neural Extraction Framework?
