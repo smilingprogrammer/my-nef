@@ -1,11 +1,8 @@
-# Neural Extraction Framework @DBpedia - GSoC 2023
+# Neural Extraction Framework @DBpedia
 
 |   Project Details     |                                                                                                                                                                                               |
 |-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| GSoC Project | [Neural Extraction Framework GSoC'24 @DBpedia](https://summerofcode.withgoogle.com/programs/2024/projects/J4tJODFV)                                                                           |
-| Contributor | [Abdulsobur Oyewale](https://www.linkedin.com/in/abdul-sobur-oyewale/)                                                                                                                        |
-| Mentors | [Tommaso Soru](https://github.com/mommi84), [Yogesh Kulkarni](https://github.com/yogeshhk), [Ziwei Xu](https://github.com/zoeNantes), [Mehrzad Shahinmoghadam](https://github.com/mehrzadshm) |
-| Blogs | [GSoC-2024 Abdulsobur Oyewale](https://smilingprogrammer.github.io/GSoC-2024-blog/)                                                                                                                                   |
+This will be the continuation of my open source project @DBpedia. [here](https://smilingprogrammer.github.io/GSoC-2024-blog/)
 
 ### What is Neural Extraction Framework?
 [DBpedia](https://www.dbpedia.org/) is a knowledge base constructed by parsing the infoboxes present on wikipedia pages. This knowledge base consists of [relational triples](https://en.wikipedia.org/wiki/Semantic_triple) extracted using the infoboxes(which are structured information). There can be more information present in the wikipedia article text which needs to be extracted so as to mine hidden relationships between entities(wikipedia articles). 
