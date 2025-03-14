@@ -11,8 +11,6 @@ This will be the continuation of my open source project @DBpedia. [here](https:/
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Donald Trump  | alumnus  | University of Pennsylvania  | https://dbpedia.org/resource/Donald_Trump | http://dbpedia.org/ontology/alumni | https://dbpedia.org/resource/University_of_Pennsylvania |
 
-| Donald Trump | alumnus | University of Pennsylvania | https://dbpedia.org/resource/Donald_Trump | http://dbpedia.org/ontology/alumni | https://dbpedia.org/resource/University_of_Pennsylvania |
-
 The aim of this project is to extract all those triples from the wikipedia article text using SOTA NLP methods for entity and relation extraction, entity linking, relationship matching etc. We have been able to successfully create an end-2-end pipeline to extract triples given a wikipedia page.
 
 **This project couldn't be possible without these amazing models, expressing our gratitude!**:
