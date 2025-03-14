@@ -7,9 +7,9 @@ This will be the continuation of my open source project @DBpedia. [here](https:/
 
 # Example of a text and its generated semantic triples:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| subject | predicate | object |
+| ------------- | ------------- | ------------- |
+| Donald Trump  | alumnus  | University of Pennsylvania  |
 | Content Cell  | Content Cell  |
 
 | Donald Trump | alumnus | University of Pennsylvania | https://dbpedia.org/resource/Donald_Trump | http://dbpedia.org/ontology/alumni | https://dbpedia.org/resource/University_of_Pennsylvania |
