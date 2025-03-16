@@ -1,4 +1,4 @@
-# Neural Extraction Framework @DBpedia
+# Neural Extraction Framework
 
 This will be the continuation of my open source project @DBpedia. [here](https://github.com/dbpedia/neural-extraction-framework/tree/main/GSoC24)
 
